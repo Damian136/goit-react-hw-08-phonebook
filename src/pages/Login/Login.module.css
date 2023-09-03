@@ -1,0 +1,15 @@
+.loginPageContainer {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.loginPageTitle {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.loginPageSubTitle {
+  font-size: 16px;
+  color: #555;
+}

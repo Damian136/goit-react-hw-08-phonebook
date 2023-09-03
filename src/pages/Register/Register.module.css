@@ -1,0 +1,15 @@
+.registerPageContainer {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.registerPageTitle {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.registerPageSubTitle {
+  font-size: 16px;
+  color: #555;
+}

@@ -1,0 +1,14 @@
+.contacts-container {
+  background-color: lightgray;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.loading-message {
+  font-style: italic;
+  color: blue;
+}
+
+.error-message {
+  color: red;
+}
